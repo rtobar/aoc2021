@@ -6,3 +6,4 @@ function(calendar_day day)
 endfunction()
 
 calendar_day(1)
+calendar_day(2)
